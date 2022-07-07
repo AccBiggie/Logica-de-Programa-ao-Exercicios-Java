@@ -1,18 +1,4 @@
-## Getting Started
-
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
-
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Leia 4 valores inteiros A, B, C e D. A seguir, se B for maior do que C e se D for maior do
+que A, e a soma de C com D for maior que a soma de A e B e se C e D, ambos, forem
+positivos e se a variável A for par escrever a mensagem "Valores aceitos", senão
+escrever "Valores nao aceitos"

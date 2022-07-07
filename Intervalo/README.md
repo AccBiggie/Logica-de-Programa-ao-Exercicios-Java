@@ -1,18 +1,7 @@
-## Getting Started
-
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
-
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Você deve fazer um programa que leia um valor qualquer e apresente uma mensagem
+dizendo em qual dos seguintes intervalos ([0,25], (25,50], (50,75], (75,100]) este valor se
+encontra. Obviamente se o valor não estiver em nenhum destes intervalos, deverá ser
+impressa a mensagem “Fora de intervalo”.
+O símbolo ( representa "maior que". Por exemplo:
+[0,25] indica valores entre 0 e 25.0000, inclusive eles.
+(25,50] indica valores maiores que 25 Ex: 25.00001 até o valor 50.0000000 
