@@ -1,17 +1,5 @@
 /*Você deve fazer um programa que leia um valor qualquer e apresente uma mensagem
 dizendo em qual dos seguintes intervalos ([0,25], (25,50], (50,75], (75,100]) este valor se
- public static void main(String[] args) throws IOException {
- Scanner leitor = new Scanner(System.in);
- int a = leitor.nextInt();
- int b = leitor.nextInt();
- int c = leitor.nextInt();
- int d = leitor.nextInt();
- if (b > c && d > a && c > 0 && d > 0 && (c + d) > (a + b) && a % 2 == 0) {
- System.out.println("Valores aceitos");
- } else {
- System.out.println("Valores nao aceitos");
- }
- }
 encontra. Obviamente se o valor não estiver em nenhum destes intervalos, deverá ser
 impressa a mensagem “Fora de intervalo”.
 O símbolo ( representa "maior que". Por exemplo:
