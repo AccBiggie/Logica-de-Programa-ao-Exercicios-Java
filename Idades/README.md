@@ -1,18 +1,9 @@
-## Getting Started
-
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
-
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Idades
+Faça um algoritmo para ler um número indeterminado de dados, contendo cada um, a
+idade de um indivíduo. O último dado, que não entrará nos cálculos, contém o valor de
+idade negativa. Calcular e imprimir a idade média deste grupo de indivíduos.
+Entrada
+A entrada contém um número indeterminado de inteiros. A entrada será encerrada
+quando um valor negativo for lido.
+Saída
+A saída contém um valor correspondente à média de idade dos indivíduos.
